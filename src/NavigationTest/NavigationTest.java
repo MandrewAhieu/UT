@@ -1,11 +1,3 @@
-/* 
-As I mentioned in the interview, my previous experience with Selenium and automated testing in general is more of a "working knowledge". 
-So in the spirit of honesty, I will mention that I used the following sites for reference when completing this assignment:
-http://toolsqa.com/selenium-webdriver/page-object-model/
-http://www.guru99.com/all-about-testng-and-selenium.html
-*/
-
-
 package NavigationTest;
 
 import org.openqa.selenium.WebDriver;
